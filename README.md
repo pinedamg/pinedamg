@@ -25,7 +25,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Flutter vs React Native vs Ionic](https://pinedamg.medium.com/flutter-vs-react-native-vs-ionic-19e90c641f90?source=rss-53a090c32af9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
