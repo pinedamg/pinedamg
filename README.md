@@ -41,3 +41,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinedamg&show_icons=true&locale=en&layout=compact" alt="pinedamg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinedamg&show_icons=true&locale=en" alt="pinedamg" /></p>
+
+<!-- yhype To Track Stats -->
+![](https://hit.yhype.me/github/profile?user_id=818713)
