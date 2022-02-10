@@ -25,6 +25,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Flutter &amp; Dart Code Gets Compiled To Native Apps](https://pinedamg.medium.com/how-flutter-dart-code-gets-compiled-to-native-apps-c4612ea0ef0e?source=rss-53a090c32af9------2)
 - [Flutter vs React Native vs Ionic](https://pinedamg.medium.com/flutter-vs-react-native-vs-ionic-19e90c641f90?source=rss-53a090c32af9------2)
 <!-- BLOG-POST-LIST:END -->
 
