@@ -46,30 +46,50 @@ Check out my projects at **[pinedamg.github.io/projects](http://pinedamg.github.
 More on **[Medium](https://pinedamg.medium.com/)**  
 
 ---
-
 ## 🌎 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/pinedamg" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://pinedamg.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/My Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/pinedamg" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://pinedamg.github.io/online-cv" target="_blank">
+    <img src="https://img.shields.io/badge/Online CV-0077B5?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/pinedamg" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://medium.com/@pinedamg" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://linktr.ee/pinedamg" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=white" alt="Linktree"/>
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
   <a href="mailto:pinedamg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+🔹 **[My Website](https://pinedamg.github.io)** → Portafolio y proyectos destacados.  
+🔹 **[Online CV](https://pinedamg.github.io/online-cv)** → Mi experiencia y logros profesionales.  
+🔹 **[LinkedIn](https://linkedin.com/in/pinedamg)** → Networking y oportunidades laborales.  
+🔹 **[Medium](https://medium.com/@pinedamg)** → Artículos sobre software, arquitectura y buenas prácticas.  
+🔹 **[Linktree](https://linktr.ee/pinedamg)** → Todos mis enlaces y proyectos en un solo lugar.  
+🔹 **[Email](mailto:pinedamg@gmail.com)** → Escríbeme para colaboraciones o consultas.  
 
 ---
 
 ## 🛠️ Tech Stack
+
+### **Favorite Technologies**
+<p align="center">
+  <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ### **Languages**
 <p>
@@ -126,3 +146,11 @@ I started coding with **LOGO (yes, the turtle one!)** at age 8, and now I build 
 
 <!-- yhype To Track Stats -->
 ![](https://hit.yhype.me/github/profile?user_id=818713)
+
+---
+
+## 📈 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinedamg&theme=dark" alt="GitHub Streak Stats"/>
+</p>
