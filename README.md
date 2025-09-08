@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauricio Pineda</h1>
-<h3 align="center">Full Stack Developer | E-commerce Specialist | Passionate About Clean Code</h3>
+<h3 align="center">Senior Full Stack Developer | Architectural Modernization | E-Commerce Expert</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pinedamg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,28 +9,30 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** with over **15 years of experience** specializing in **Magento, PHP, Ruby on Rails, and Flutter**. I thrive on building **scalable e-commerce solutions, crafting efficient APIs, and solving complex problems with simplicity**.
+I'm a **Senior Full Stack Developer** with over 15 years of experience architecting and building robust, high-performance web applications. My career began with a deep specialization in the **PHP and Magento** ecosystem, which evolved into a focus on **architectural modernization**.
 
-- 🔭 **Currently working on:** Microservices, Ruby on Rails & PHP projects  
-- 🌱 **Currently learning:** Advanced Flutter development & Rust  
-- 👯 **Looking to collaborate on:** E-commerce, fintech, and high-performance web applications  
-- 💬 **Ask me about:** Magento, PHP, Ruby on Rails, Flutter, and software architecture  
+I enjoy the challenge of transitioning legacy systems to modern technology stacks, including building microservice-based platforms with **Ruby on Rails** and, most recently, **Java/Spring Boot**. My passion is applying enduring software architecture principles to new technologies to build solutions that are clean, maintainable, and ready for the future.
+
+- 🔭 **Currently working on:** Modernizing systems with Java/Spring Boot, Kafka, and advancing projects in Ruby on Rails.
+- 🌱 **Currently learning:** Advanced AI/LLM integration patterns and deepening my knowledge of Rust.
+- 👯 **Looking to collaborate on:** Open source tools, e-commerce platforms, and projects involving system modernization.
+- 💬 **Ask me about:** Magento, PHP, Ruby on Rails, Java, Flutter, and software architecture.
 - 📫 **Reach me at:** [pinedamg@gmail.com](mailto:pinedamg@gmail.com)  
 
 ---
 
 ## 📅 What I'm Working On
-- 🔹 **Optimizing Magento 2 microservices** for better scalability.  
-- 🔹 **Building a Flutter App** with real-time analytics.  
-- 🔹 **Experimenting with Rust & WebAssembly**.  
+- 🔹 Modernizing legacy systems with **Java, Spring Boot & Kafka**.
+- 🔹 Architecting and refactoring **Ruby on Rails microservices**.
+- 🔹 Developing **AI-powered tools** for workflow automation.
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **E-commerce Optimization** – Migrated monolithic Magento architectures to **microservices**, improving performance by **35%**.  
-🔹 **POS System with Bluetooth Payments** – Developed a scalable payment solution for **10k+ transactions/month**.  
-🔹 **Custom API Integrations** – Built APIs for seamless third-party services, including **payment gateways and logistics**.  
+🔹 **Architectural Modernization** – Led the transition of a large-scale monolith to a **microservices platform using Ruby on Rails**, improving performance and scalability.
+🔹 **Java Microservices** – Developed and maintained resilient backend services using **Java Spring Boot and Kafka** for a high-availability system.
+🔹 **E-commerce Platform Leadership** – Overhauled a **Magento 2** platform's infrastructure with **Docker, Redis & Varnish**, and led multiple payment gateway integrations.
 🔹 **Mobile App Development** – Created **Flutter-based** mobile applications with **Firebase & real-time analytics**.  
 
 Check out my projects at **[pinedamg.github.io/projects](http://pinedamg.github.io/projects)**  
@@ -82,11 +84,14 @@ More on **[Medium](https://pinedamg.medium.com/)**
 
 ### **Favorite Technologies**
 <p align="center">
-  <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
